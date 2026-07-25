@@ -42,8 +42,8 @@ This site serves as:
 Clone the repository and run the development server:
 
 ```bash
-git clone https://github.com/ArtemDyachuk/Artem-Dyachuk.git
-cd Artem-Dyachuk
+git clone https://github.com/ArtemDyachuk/portfolio-site.git
+cd portfolio-site
 npm install
 npm run dev
 ```
