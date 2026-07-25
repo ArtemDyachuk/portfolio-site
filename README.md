@@ -23,7 +23,7 @@ This site serves as:
 - **Styling:** CSS Modules
 - **Deployment:** [Vercel](https://vercel.com/)
 - **Content:** Static Markdown, React JSX or JSON
-- **Databsae:** MongoDB
+- **Database:** MongoDB
 
 ---
 
